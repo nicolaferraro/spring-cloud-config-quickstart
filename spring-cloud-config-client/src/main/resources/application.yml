@@ -1,0 +1,8 @@
+spring:
+  application.name: sample-app
+
+endpoints:
+  restart:
+    enabled: true
+  refresh:
+    enabled: true
